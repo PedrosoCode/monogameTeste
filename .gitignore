@@ -1,0 +1,65 @@
+﻿# Diretórios e arquivos gerados pelo Visual Studio
+.vs/
+*.user
+*.suo
+*.cache
+*.cachefile
+*.bak
+*.log
+*.obj
+*.ilk
+*.pdb
+*.aps
+*.ncb
+*.sdf
+*.opendb
+*.tlog
+*.idb
+
+# Diretórios de build e binários
+[Bb]in/
+[Oo]bj/
+
+# Configurações locais e arquivos temporários
+*.userprefs
+*.localhistory
+*.swp
+*.swo
+*.tmp
+*.pid
+*.seed
+*.old
+*.orig
+*.rej
+
+# Arquivos do MonoGame
+Content/bin/
+Content/obj/
+*.mgcb
+*.mgcb.lock
+
+# Builds para diferentes plataformas
+*.app/
+*.apk
+*.exe
+*.dll
+*.dylib
+*.so
+*.a
+*.lib
+*.exp
+*.o
+
+# Arquivos do Rider/JetBrains
+.idea/
+*.sln.iml
+
+# Arquivos de dependências e pacotes
+packages/
+*.nupkg
+*.nuspec
+project.lock.json
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
